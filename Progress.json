@@ -17,9 +17,7 @@
     "tomato": 5,
     "lettuce": 3
   },
-  "inventory": {
-    "carrot": 6
-  },
+  "inventory": {},
   "redeemHistory": [
     {
       "code": "EEH3UX",
@@ -28,11 +26,19 @@
       "status": "pending",
       "timestamp": 1766690486632,
       "date": "26/12/2025, 02.21.26"
+    },
+    {
+      "code": "XSZSVZ",
+      "amount": 2.4,
+      "credits": 72,
+      "status": "pending",
+      "timestamp": 1766691057719,
+      "date": "26/12/2025, 02.30.57"
     }
   ],
   "selectedSeed": "carrot",
   "unlockedPlots": 6,
-  "weather": "sunny",
+  "weather": "storm",
   "isNight": true,
   "tools": {
     "waterCan": 0,
