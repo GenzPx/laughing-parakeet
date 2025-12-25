@@ -1,42 +1,35 @@
 {
-  "money": 5,
+  "money": 0,
   "credits": 0,
   "level": 1,
-  "xp": 0,
-  "totalHarvests": 0,
+  "xp": 30,
+  "totalHarvests": 6,
   "plots": [
-    {
-      "type": "carrot",
-      "planted": 1766690427529
-    },
-    {
-      "type": "carrot",
-      "planted": 1766690426424
-    },
-    {
-      "type": "carrot",
-      "planted": 1766690429165
-    },
-    {
-      "type": "carrot",
-      "planted": 1766690428690
-    },
-    {
-      "type": "carrot",
-      "planted": 1766690428176
-    },
-    {
-      "type": "carrot",
-      "planted": 1766690429664
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "seeds": {
-    "carrot": 4,
+    "carrot": 6,
     "tomato": 5,
     "lettuce": 3
   },
-  "inventory": {},
-  "redeemHistory": [],
+  "inventory": {
+    "carrot": 6
+  },
+  "redeemHistory": [
+    {
+      "code": "EEH3UX",
+      "amount": 5,
+      "credits": 150,
+      "status": "pending",
+      "timestamp": 1766690486632,
+      "date": "26/12/2025, 02.21.26"
+    }
+  ],
   "selectedSeed": "carrot",
   "unlockedPlots": 6,
   "weather": "sunny",
