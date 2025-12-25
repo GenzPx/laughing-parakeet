@@ -1,6 +1,6 @@
 {
   "money": 0,
-  "credits": 0,
+  "credits": 150,
   "level": 1,
   "xp": 30,
   "totalHarvests": 6,
@@ -23,7 +23,7 @@
       "code": "EEH3UX",
       "amount": 5,
       "credits": 150,
-      "status": "pending",
+      "status": "approved",
       "timestamp": 1766690486632,
       "date": "26/12/2025, 02.21.26"
     },
@@ -38,7 +38,7 @@
   ],
   "selectedSeed": "carrot",
   "unlockedPlots": 6,
-  "weather": "storm",
+  "weather": "sunny",
   "isNight": true,
   "tools": {
     "waterCan": 0,
