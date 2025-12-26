@@ -11,8 +11,9 @@
     "code": "XSZSVZ",
     "amount": 2.4,
     "credits": 72,
-    "status": "pending",
+    "status": "approved",
     "timestamp": 1766691057719,
-    "date": "26/12/2025, 02.30.57"
+    "date": "26/12/2025, 02.30.57",
+    "approvedAt": "12/26/2025, 8:21:13 AM"
   }
 ]
